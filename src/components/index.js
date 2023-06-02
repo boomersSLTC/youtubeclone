@@ -6,15 +6,20 @@ import VideoDetail from './VideoDetail';
 import SearchBar from './SearchBar';
 import Sidebar from './Sidebar';
 import Videos from './Videos';
-
+import VideoCard from './VideoCard';
+import ChannelCard from './ChannelCard';
+import Loader from './Loader';
 
 export {
     Feed,
     ChannelDetail,
+    ChannelCard,
+    VideoCard,
     Navbar,
     SearchFeed,
     VideoDetail,
     SearchBar,
     Sidebar,
-    Videos
+    Videos,
+    Loader
 }
